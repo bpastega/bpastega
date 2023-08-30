@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello! I'm bpastega 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apibpastegaanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bpastega/bpastega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
