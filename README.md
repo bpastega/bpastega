@@ -13,15 +13,15 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
 <br />
 
 #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpastega&show_icons=true&theme=highcontrast)
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  I first tried my hand at coding while taking a computer science course fresh out of high school and I fell absolutely in love with it. After a few years and a few disasters here and there (hello covid!) I decided to pivot to studying Software Engineering at a different program, and currently plan to get my bachelor's degree in that area. 
- 
+ <p>I first tried my hand at coding while taking a computer science course fresh out of high school and I fell absolutely in love with it. After a few years and a few disasters here and there (hello covid!) I decided to pivot to studying Software Engineering at a different program, and currently plan to get my bachelor's degree in that area.</p>
+</details>
 
 <!--
 **bpastega/bpastega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
