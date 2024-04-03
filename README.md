@@ -17,7 +17,7 @@
 
 
 #
-![Anurag's GitHub stats](https://github-readme-stats-git-master-bpastega.vercel.app/api?username=bpastega&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats-git-master-bpastega.vercel.app/api?username=bpastega&show_icons=true&theme=radical)*/-->
 
 
 
