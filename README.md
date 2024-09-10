@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8fff00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Bianca+Pastega;Welcome+to+my+GitHub!+:%29)
 **`Developer and Software Engineering Student`**
 
-📚 Currently pursuing a bachelor's degree 
+📚 Currently pursuing a bachelor's degree in Software Engineering
 
 ---
 
